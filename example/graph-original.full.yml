@@ -1,0 +1,363 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In order to combat fraud and illegal activity, we may exchange data with other
+    companies and organizations and provide it to public authorities in response to
+    lawful requests.
+  - Specifically, the information we process includes information about the IP address
+    of your device, device type, unique device identification numbers, broad geographic
+    location (e.g. country or city-level location) and any other technical non-personal
+    identifiable information.
+  - We may also disclose your data based on your consent, to comply with the law or
+    to protect the rights, property or safety of us, our players or others.
+  - 'What information we collect and how we use it
+
+
+    When you use our Services, we may collect information automatically from your
+    device.'
+  purposes:
+    legal:
+    - to comply with the law or to protect the rights, property or safety of us, our
+      players or others
+    security:
+    - In order to combat fraud and illegal activity
+    - to comply with the law or to protect the rights, property or safety of us, our
+      players or others
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - 'For this purpose, we use Analytics technologies from third-party partners to
+    collect anonymous information such as user number of sessions, location information,
+    device information (such as: operating system version, screen resolution, device
+    model and etc).'
+  purposes: {}
+- source: we
+  target: coarse geolocation
+  key: COLLECT
+  text:
+  - Specifically, the information we process includes information about the IP address
+    of your device, device type, unique device identification numbers, broad geographic
+    location (e.g. country or city-level location) and any other technical non-personal
+    identifiable information.
+  purposes: {}
+- source: we
+  target: device type
+  key: COLLECT
+  text:
+  - Specifically, the information we process includes information about the IP address
+    of your device, device type, unique device identification numbers, broad geographic
+    location (e.g. country or city-level location) and any other technical non-personal
+    identifiable information.
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - Specifically, the information we process includes information about the IP address
+    of your device, device type, unique device identification numbers, broad geographic
+    location (e.g. country or city-level location) and any other technical non-personal
+    identifiable information.
+  purposes: {}
+- source: we
+  target: non-personal information
+  key: COLLECT
+  text:
+  - Specifically, the information we process includes information about the IP address
+    of your device, device type, unique device identification numbers, broad geographic
+    location (e.g. country or city-level location) and any other technical non-personal
+    identifiable information.
+  purposes: {}
+- source: we
+  target: statistical user datum
+  key: COLLECT
+  text:
+  - To improve your experience in using our Services, we collect statistical user
+    data to improve your experience while using our services.
+  purposes:
+    services:
+    - To improve your experience in using our Services
+    - to improve your experience while using our services
+- source: we
+  target: unique device identification number
+  key: COLLECT
+  text:
+  - Specifically, the information we process includes information about the IP address
+    of your device, device type, unique device identification numbers, broad geographic
+    location (e.g. country or city-level location) and any other technical non-personal
+    identifiable information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In order to combat fraud and illegal activity, we may exchange data with other
+    companies and organizations and provide it to public authorities in response to
+    lawful requests.
+  purposes:
+    security:
+    - In order to combat fraud and illegal activity
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Advertising provided by third parties, and they can use to collect anonymous information
+    about the user's interests, location information, device information, to be able
+    to choose more relevant, interest-based advertisements.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Our third party partners may use technologies such as cookies to gather information
+    about your activities on their Site and other sites in order to provide you advertising
+    based upon your browsing activities and interests.
+  purposes:
+    advertising:
+    - in order to provide you advertising based upon your browsing activities and
+      interests
+    analytics:
+    - to gather information about your activities on their Site and other sites
+- source: UNSPECIFIED_ACTOR
+  target: geolocation
+  key: COLLECT
+  text:
+  - Advertising provided by third parties, and they can use to collect anonymous information
+    about the user's interests, location information, device information, to be able
+    to choose more relevant, interest-based advertisements.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: internet activity
+  key: COLLECT
+  text:
+  - Our third party partners may use technologies such as cookies to gather information
+    about your activities on their Site and other sites in order to provide you advertising
+    based upon your browsing activities and interests.
+  purposes:
+    advertising:
+    - in order to provide you advertising based upon your browsing activities and
+      interests
+- source: advertiser
+  target: advertising id
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Advertising services
+
+
+    To collect this information third party advertising services may use and store
+    your mobile device Advertising ID to show advertising that they consider relevant
+    to you.'
+  purposes:
+    advertising:
+    - to show advertising that they consider relevant to you
+- source: advertiser
+  target: mobile device
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Advertising services
+
+
+    To collect this information third party advertising services may use and store
+    your mobile device Advertising ID to show advertising that they consider relevant
+    to you.'
+  purposes:
+    advertising:
+    - to show advertising that they consider relevant to you
+- source: we
+  target: TI Media
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Introduction
+
+
+    MBR PROPERTY LISTING LTD and it''s affiliates (hereinafter, "We", "Us", "Our",
+    "Pixel Tale Games") has adopted this privacy policy (hereinafter, "Privacy Policy")
+    to explain how we collect, store and use the user (hereinafter, "You", "User")
+    information, prepared in connection with our games and all other related services
+    that may be provided at any given time (hereinafter, "Services").'
+- source: we
+  target: pixel tale games
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Introduction
+
+
+    MBR PROPERTY LISTING LTD and it''s affiliates (hereinafter, "We", "Us", "Our",
+    "Pixel Tale Games") has adopted this privacy policy (hereinafter, "Privacy Policy")
+    to explain how we collect, store and use the user (hereinafter, "You", "User")
+    information, prepared in connection with our games and all other related services
+    that may be provided at any given time (hereinafter, "Services").'
+- source: aggregate / deidentified / pseudonymized information
+  target: device information
+  key: SUBSUM
+  text:
+  - 'For this purpose, we use Analytics technologies from third-party partners to
+    collect anonymous information such as user number of sessions, location information,
+    device information (such as: operating system version, screen resolution, device
+    model and etc).'
+- source: aggregate / deidentified / pseudonymized information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'For this purpose, we use Analytics technologies from third-party partners to
+    collect anonymous information such as user number of sessions, location information,
+    device information (such as: operating system version, screen resolution, device
+    model and etc).'
+- source: aggregate / deidentified / pseudonymized information
+  target: user number of session
+  key: SUBSUM
+  text:
+  - 'For this purpose, we use Analytics technologies from third-party partners to
+    collect anonymous information such as user number of sessions, location information,
+    device information (such as: operating system version, screen resolution, device
+    model and etc).'
+- source: coarse geolocation
+  target: country
+  key: SUBSUM
+  text:
+  - Specifically, the information we process includes information about the IP address
+    of your device, device type, unique device identification numbers, broad geographic
+    location (e.g. country or city-level location) and any other technical non-personal
+    identifiable information.
+- source: device information
+  target: device model
+  key: SUBSUM
+  text:
+  - 'For this purpose, we use Analytics technologies from third-party partners to
+    collect anonymous information such as user number of sessions, location information,
+    device information (such as: operating system version, screen resolution, device
+    model and etc).'
+- source: device information
+  target: operating system version
+  key: SUBSUM
+  text:
+  - 'For this purpose, we use Analytics technologies from third-party partners to
+    collect anonymous information such as user number of sessions, location information,
+    device information (such as: operating system version, screen resolution, device
+    model and etc).'
+- source: device information
+  target: screen resolution
+  key: SUBSUM
+  text:
+  - 'For this purpose, we use Analytics technologies from third-party partners to
+    collect anonymous information such as user number of sessions, location information,
+    device information (such as: operating system version, screen resolution, device
+    model and etc).'
+- source: external link
+  target: Facebook
+  key: SUBSUM
+  text:
+  - Once the user has left any of our Services through use of external links (i.e.
+    Facebook, Twitter, Google Plus, Vkontakte or an in-app advertisement), we are
+    not responsible for information, personal or anonymous, that may be collected,
+    stored or shared by those sites.
+- source: external link
+  target: Google
+  key: SUBSUM
+  text:
+  - Once the user has left any of our Services through use of external links (i.e.
+    Facebook, Twitter, Google Plus, Vkontakte or an in-app advertisement), we are
+    not responsible for information, personal or anonymous, that may be collected,
+    stored or shared by those sites.
+- source: external link
+  target: Twitter
+  key: SUBSUM
+  text:
+  - Once the user has left any of our Services through use of external links (i.e.
+    Facebook, Twitter, Google Plus, Vkontakte or an in-app advertisement), we are
+    not responsible for information, personal or anonymous, that may be collected,
+    stored or shared by those sites.
+- source: external link
+  target: VK
+  key: SUBSUM
+  text:
+  - Once the user has left any of our Services through use of external links (i.e.
+    Facebook, Twitter, Google Plus, Vkontakte or an in-app advertisement), we are
+    not responsible for information, personal or anonymous, that may be collected,
+    stored or shared by those sites.
+- source: external link
+  target: in app advertisement
+  key: SUBSUM
+  text:
+  - Once the user has left any of our Services through use of external links (i.e.
+    Facebook, Twitter, Google Plus, Vkontakte or an in-app advertisement), we are
+    not responsible for information, personal or anonymous, that may be collected,
+    stored or shared by those sites.
+nodes:
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: TI Media
+- type: ACTOR
+  id: Twitter
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: VK
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: external link
+- type: ACTOR
+  id: in app advertisement
+- type: ACTOR
+  id: pixel tale games
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: coarse geolocation
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: country
+- type: DATA
+  id: device information
+- type: DATA
+  id: device model
+- type: DATA
+  id: device type
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: mobile device
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: operating system version
+- type: DATA
+  id: screen resolution
+- type: DATA
+  id: statistical user datum
+- type: DATA
+  id: unique device identification number
+- type: DATA
+  id: user number of session
